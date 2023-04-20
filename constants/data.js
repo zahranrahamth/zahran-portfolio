@@ -30,7 +30,7 @@ const userData = {
     {
       title: "Quickee - Landing Page (Avurudu)",
       link: "https://quickee.com/avurudu-wasi/",
-      imgUrl: "/avuruduPNG.PNG",
+      imgUrl: "/AvuruduPNG.PNG",
     },
     {
       title: "Quickee - Landing Page (Ramadan Sale)",
