@@ -10,17 +10,17 @@ const userData = {
     {
       title: "Quickee.com",
       link: "https://quickee.com",
-      imgUrl: "/quickee.png",
+      imgUrl: "/quickee.PNG",
     },
     {
       title: "Job Studio",
       link: "https://jobstudiolk.blogspot.com",
-      imgUrl: "/jobstudio.png",
+      imgUrl: "/jobstudio.PNG",
     },
     {
       title: "Quickee Knowledgebase",
       link: "https://knowledgebase.quickee.lk",
-      imgUrl: "/kbquickee.png",
+      imgUrl: "/kbquickee.PNG",
     },
     {
       title: "My Portfolio",
@@ -30,17 +30,17 @@ const userData = {
     {
       title: "Quickee - Landing Page (Avurudu)",
       link: "https://quickee.com/avurudu-wasi/",
-      imgUrl: "/avuruduPNG.png",
+      imgUrl: "/avuruduPNG.PNG",
     },
     {
       title: "Quickee - Landing Page (Ramadan Sale)",
       link: "https://quickee.com/ramadan-offers-srilanka/",
-      imgUrl: "/ramadan.png",
+      imgUrl: "/ramadan.PNG",
     },
     {
       title: "Fitness Playground - Surge Intership 2022 (Practise Website)",
       link: "https://trainers.fitnessplayground.com.au/",
-      imgUrl: "/trainers.png",
+      imgUrl: "/trainers.PNG",
     },
     {
       title: "FlyHyer - Surge Intership 2022 (Practise Website)",
