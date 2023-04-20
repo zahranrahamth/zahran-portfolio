@@ -1,6 +1,6 @@
 const userData = {
   githubUsername: "manuarora700",
-  name: "Manu Arora",
+  name: "Mohamed Zahran",
   designation: "Web Developer",
   avatarUrl: "/avatar.png",
   email: "zahranrahmath97@gmail.com",
