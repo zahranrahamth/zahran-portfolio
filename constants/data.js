@@ -72,7 +72,7 @@ const userData = {
       company: "Surge Global",
       year: "July - 2022",
       companyLink: "https://surge.global",
-      desc: "Your last moment revision friend right before a Tech coding interview. Practice problems and get hired at top Product based companies.",
+      desc: "I learned WordPress essentials, PHP basics, JavaScript basics, basics of SEO and how to perform it on a WordPress site, how to increase the security of a WordPress website, how to use Divi page builder to set up a website correctly, custom plugin and widget development for WordPress sites and how to perform quality assurance testing for the website.",
     },
     {
       title: "Web Developer",
